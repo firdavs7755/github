@@ -54,6 +54,7 @@
         <div>
             <label for="user_password">User password:</label>
             <input type="password" data-role="input" name="user_password" id="user_password">
+            gitt
         </div>
         <br />
         <br />
